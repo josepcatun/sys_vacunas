@@ -1,0 +1,12 @@
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\bin\Debug\sys_vacunacion.exe.config
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\bin\Debug\sys_vacunacion.exe
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\bin\Debug\sys_vacunacion.pdb
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.csproj.AssemblyReference.cache
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.FrmLogin.resources
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.Properties.Resources.resources
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.csproj.GenerateResource.cache
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.exe
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.pdb
+C:\Users\José\Documents\Universidad\Octavo Semestre\Base de Datos I\Proyecto sistema de vacunas\Script C#\sys_vacunacion\sys_vacunacion\obj\Debug\sys_vacunacion.Formularios.FrmMain.resources
