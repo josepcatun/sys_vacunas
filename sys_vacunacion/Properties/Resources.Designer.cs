@@ -63,6 +63,16 @@ namespace sys_vacunacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap add_file_64 {
+            get {
+                object obj = ResourceManager.GetObject("add-file_64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap back {
             get {
                 object obj = ResourceManager.GetObject("back", resourceCulture);
@@ -76,6 +86,26 @@ namespace sys_vacunacion.Properties {
         internal static System.Drawing.Bitmap Cancel_32 {
             get {
                 object obj = ResourceManager.GetObject("Cancel_32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap close_64 {
+            get {
+                object obj = ResourceManager.GetObject("close_64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap delete_64 {
+            get {
+                object obj = ResourceManager.GetObject("delete_64", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,6 +203,16 @@ namespace sys_vacunacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap save_file_64 {
+            get {
+                object obj = ResourceManager.GetObject("save-file_64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap search_64 {
             get {
                 object obj = ResourceManager.GetObject("search_64", resourceCulture);
@@ -226,6 +266,16 @@ namespace sys_vacunacion.Properties {
         internal static System.Drawing.Bitmap user_interface_32 {
             get {
                 object obj = ResourceManager.GetObject("user-interface_32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap write_64 {
+            get {
+                object obj = ResourceManager.GetObject("write_64", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
